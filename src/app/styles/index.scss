@@ -2,7 +2,15 @@
 @import "variables/global";
 
 body {
- 
+    min-height: 100vh;
+    background: rgb(6, 0, 110);
+    background: rgb(6, 0, 110);
+    background: linear-gradient(
+        353deg,
+        rgba(6, 0, 110, 0.58976540616246496) 0%,
+        rgba(9, 121, 43, 0.06094187675070024) 48%,
+        rgba(0, 255, 8, 0.2981967787114846) 100%
+    );
 }
 .app {
     max-width: 1200px;
