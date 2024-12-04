@@ -17,6 +17,7 @@ const App = () => {
         <div className="app">
             <Header />
             <Navbar />
+            <div>dkflasdklfklasdfkl</div>
             <div className="content-page">{mounted && <AppRouter />}</div>
         </div>
     );
